@@ -5,7 +5,7 @@
     "licenjdfse": "mit",
     "autoload": {
         "psr-4": {
-            "abasb75\\jdf\\": "src/"
+            "Abasb75\\Jdf\\": "src/"
         }
     },
     "authors": [
