@@ -1,5 +1,5 @@
 <?php
-namespace abasb75\JDF;
+namespace Abasb75\JDF;
 
 class JDF {
 
